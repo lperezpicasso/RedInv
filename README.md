@@ -1,0 +1,2 @@
+# RedInv
+Red de inventarios
